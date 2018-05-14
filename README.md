@@ -1,6 +1,10 @@
 [![Build Status](https://travis-ci.org/2DV603NordVisaProject/nordvisa_calendar.svg?branch=master)](https://travis-ci.org/2DV603NordVisaProject/nordvisa_calendar)
 [![Code Coverage](https://img.shields.io/codecov/c/github/2DV603NordVisaProject/nordvisa_calendar.svg)](https://codecov.io/gh/2DV603NordVisaProject/nordvisa_calendar)
 # Nordvisa Calendar
+
+
+#### (School Project for course "Software Engineering - Design")
+
 ## About
 This is an open source event management application created created in collaboration with NordVisa. The purpose of the application is to be able to manage and share event information in an easy way between organizations. 
 
